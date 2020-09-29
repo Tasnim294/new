@@ -84,3 +84,76 @@
     transition: 0.3s all ease;
 }
 
+.amar:hover{
+    transform: translateY(-20px);
+    transition: 0.3s all ease;
+}
+.serviceoffer{
+    background: #f7f7f9;
+    padding: 50px 0;
+    margin-bottom: 50px;
+}
+
+.headings{
+    margin-bottom: 50px;
+}
+
+.headings h1{
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.names h1{
+    color: #2e2e2e;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/*****
+.service{
+    background-color: #E5DDD5;
+}
+.servicediv{
+    padding-top: 20px;
+    
+
+}
+.servicediv h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+.service-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+*/
+
+.servicediv{
+    padding-top: 140px;
+    
+    
+
+}
+.e{
+    color: #2f00ff;
+    font-size: 40px;
+}
+.ami:hover{
+    transform: translateY(20px);
+    transition: 0.3s all ease;
+}
+
+
+
+
+#more {display: none;}
+
+.footer{
+    width: 100%;
+    background-color: rgb(187, 51, 187);
+    padding-top: 10px;
+    margin: 0;
+}
